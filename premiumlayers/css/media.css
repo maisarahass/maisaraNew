@@ -1,0 +1,60 @@
+@media (max-width: 767px)
+{ 
+            .header-top ul 
+            {
+               display: none;
+
+            } 
+    
+            .header  .logo-info-part
+            {
+                display: none;
+            }
+            .dental
+            {
+               
+                margin-top: -100px;
+                margin-left: 0;
+                font-size: 12px;
+                
+            }
+            
+             .dental  .de
+            {
+               
+                font-size: 20px;
+            
+                
+            }
+              .dental  .al
+            {
+               
+                font-size: 20px;
+                
+            }
+              .dental  p
+            {
+               
+                display: none;
+                
+            }
+              .dental  button
+            {
+               
+                margin-top: 50px;
+                
+            }
+            .welcome
+                {
+              display: none;
+                }
+    
+    
+}
+
+
+
+
+
+
+@media (min-width: @screen-sm-min) { ... }
